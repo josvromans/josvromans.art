@@ -1,0 +1,11 @@
+/token/*
+  Content-Type: text/html; charset=utf-8
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Headers: *
+  Access-Control-Max-Age: 86400
+
+/metadata/*
+  Content-Type: application/json
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Headers: *
+  Access-Control-Max-Age: 86400
